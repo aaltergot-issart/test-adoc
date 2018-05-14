@@ -1,13 +1,3 @@
 = Title
-:toc:
 
-'''
-== Section 1
-
-=== Секция
-
-== Section 2
-
-=== Еще секция
-
-=== Тоже секция
+link:tst.adoc[link to doc]
